@@ -1,0 +1,12 @@
+1804112
+Rully Nurul Hasanah
+
+/*Janji*/
+Saya Rully Nurul Hasanah mengerjakan TP1 dalam mata kuliah [DPBO] 
+untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. 
+Aamiin.
+
+
+Kesulitan yang saya temui adalah ketika menghubungkan form dengan kodingannya, dan banyak eror yang tidak bisa saya perbaiki
+
+Hal yang saya pelajari dari TP1 ini adalah saya belajar foreach. Dan fitur yang sudah saya kerjakan adalahh fitur form login dengan form home.
